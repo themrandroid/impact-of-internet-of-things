@@ -1,0 +1,215 @@
+Age,Sex,Level of Education,Years_in_business,Num_employees,Heard_of_IoT,IoT_small_devices,IoT_network_computers,IoT_digital_tech,IoT_examples,IoT_jobs_faster,IoT_efficiency,IoT_applies_all_fields,Use_IoT,How_use_IoT,Lack_funds,Lack_knowledge,IoT_too_complex,Equipment_costly,No_maintenance,Lack_skills,Not_enough_staff,Income_5years,Income_6months,IoT_impact_growth,IoT_increase_profit,IoT_customer_retention,IoT_reduce_loss
+30 and above,Male,M.Sc,6 years and above,31 and above,Yes,SA,SA,SA,A,A,A,SA,Yes,Automatic recording of customers information,Yes,Yes,No,No,No,No,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,31 and above,Yes,SA,SA,SA,SA,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,M.Sc,1-5 years,1-10,Yes,D,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,31 and above,No,A,A,A,A,SA,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,Yes,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,A,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,No,I,I,I,A,A,A,A,No,Not using IoT,No,Yes,No,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+20-24,Female,B.Sc,1-5 years,1-10,Yes,A,I,SD,I,A,A,D,No,Automatic recording of customers information,No,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,SD,SD,SA,A,A,A,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,No,No,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,Yes,A,SA,SA,SA,A,A,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,Yes,No,Yes,"Above 500,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,1-10,No,A,A,A,A,A,A,A,No,Automatic replies to customer’s enquiries,No,Yes,Yes,No,Yes,No,No,"Above 500,000","100,000 to 500,000",No,Yes,No,Yes
+25-29,Male,M.Sc,1-5 years,11-20,Yes,A,A,A,SA,I,I,A,Yes,Automatic recording of customers information,No,Yes,No,No,Yes,No,Yes,"100,000 to 500,000","50,000 to 100,000",Yes,Yes,Yes,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,A,A,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,No,No,No,"Above 500,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,No,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Above 500,000","Above 500,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,A,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,Yes,No,No,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,No
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,I,I,I,No,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"Above 500,000","100,000 to 500,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"100,000 to 500,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+30 and above,Male,M.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,No,No,Yes,Yes,"100,000 to 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,WAEC,6 years and above,1-10,Yes,A,SA,SA,SA,SA,SA,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,No,No,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,M.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic recording of customers information,No,Yes,No,No,No,No,No,"100,000 to 500,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,A,A,SD,A,SA,SA,SA,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,WAEC,6 years and above,1-10,No,D,D,SA,A,SA,SA,SA,No,Not using IoT,No,Yes,Yes,No,Yes,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,I,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,No,No,No,Yes,"50,000 to 100,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,SA,A,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,No,Yes,Yes,"100,000 to 500,000","Below 50,000",Yes,No,Yes,Yes
+30 and above,Male,M.Sc,1-5 years,1-10,Yes,SA,SA,A,A,A,A,SA,Yes,Automatic recording of customers information,Yes,Yes,No,Yes,Yes,Yes,Yes,"50,000 to 100,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Male,WAEC,1-5 years,1-10,No,D,SD,D,D,D,D,D,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,M.Sc,1-5 years,1-10,Yes,A,I,A,A,SA,A,A,Yes,Automatic recording of customers information,No,Yes,No,No,No,No,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,6 years and above,1-10,Yes,A,A,A,A,A,A,A,No,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Above 500,000","100,000 to 500,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,No,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Male,WAEC,1-5 years,1-10,No,D,I,I,I,I,I,I,No,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,No,No,No,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,WAEC,1-5 years,1-10,No,D,I,I,D,I,A,A,No,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,No,No,"Above 500,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,21-30,Yes,SA,SA,A,A,A,A,A,Yes,Automatic recording of customers information,No,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,A,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,No,No,No,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,No,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,Yes,No,No,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,No,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,M.Sc,1-5 years,31 and above,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,No,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Above 500,000",No,Yes,Yes,Yes
+30 and above,Male,WAEC,6 years and above,31 and above,No,D,I,I,I,I,I,I,No,Not using IoT,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",No,No,No,No
+20-24,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,A,SA,A,SA,I,Yes,Automatic replies to customer’s enquiries,Yes,No,No,Yes,Yes,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,31 and above,Yes,A,A,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,31 and above,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,No,A,A,A,SA,A,A,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,No,No,No,Yes,"50,000 to 100,000","Below 50,000",No,No,Yes,No
+20-24,Male,WAEC,1-5 years,1-10,No,A,I,A,A,A,A,A,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Below 50,000","Below 50,000",No,No,No,No
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,A,SA,SA,SA,SA,A,A,Yes,Automatic recording of customers information,Yes,No,No,Yes,No,No,No,"100,000 to 500,000","50,000 to 100,000",Yes,Yes,No,No
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,A,SA,Yes,Automatic replies to customer’s enquiries,No,No,No,No,Yes,No,Yes,"100,000 to 500,000","50,000 to 100,000",No,Yes,No,Yes
+25-29,Female,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,A,A,A,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,Primary School,6 years and above,1-10,No,I,A,I,A,A,I,A,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,M.Sc,6 years and above,11-20,No,A,A,A,A,A,A,A,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,A,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,A,A,SA,SA,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,SA,I,A,A,A,SA,SA,No,Not using IoT,Yes,Yes,No,Yes,No,Yes,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,31 and above,Yes,D,A,A,A,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,No,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+30 and above,Male,WAEC,6 years and above,31 and above,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,No,No,No
+25-29,Female,WAEC,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",No,No,No,No
+25-29,Male,WAEC,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Male,B.Sc,1-5 years,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,No,Yes,No,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,Yes
+25-29,Male,M.Sc,1-5 years,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,WAEC,6 years and above,1-10,No,SD,SD,I,D,D,D,D,No,Not using IoT,No,No,No,No,No,No,No,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+20-24,Male,WAEC,1-5 years,1-10,Yes,I,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,No,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,Yes,No,Yes,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,11-20,Yes,I,I,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,Yes,Yes,Yes,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,No,Not using IoT,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",No,Yes,Yes,Yes
+20-24,Female,B.Sc,6 years and above,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,No,No,No,No,No,No,No,"100,000 to 500,000","Above 500,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic recording of customers information,Yes,No,Yes,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Not using IoT,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,1-5 years,1-10,No,D,I,I,I,I,I,I,No,Not using IoT,No,Yes,Yes,Yes,Yes,Yes,No,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Female,M.Sc,6 years and above,11-20,Yes,SA,SA,A,A,A,SA,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,D,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+20-24,Female,B.Sc,1-5 years,1-10,Yes,A,A,A,I,SA,SA,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+25-29,Female,WAEC,1-5 years,1-10,Yes,I,A,A,A,I,SA,SA,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,A,A,A,A,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,No,No,Yes,No,Yes,No,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Male,PhD,6 years and above,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Not using IoT,No,No,No,Yes,No,Yes,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,No,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,B.Sc,6 years and above,11-20,Yes,A,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,WAEC,1-5 years,1-10,No,I,I,SD,I,I,D,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+30 and above,Male,B.Sc,1-5 years,11-20,Yes,A,A,I,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,No,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,Primary School,6 years and above,1-10,No,D,D,D,I,D,D,D,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+20-24,Female,Primary School,1-5 years,1-10,No,D,I,I,I,I,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,A,A,A,A,A,A,No,Not using IoT,Yes,Yes,No,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+20-24,Male,WAEC,1-5 years,1-10,Yes,SA,I,SA,A,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,Yes,Yes,No,No,"50,000 to 100,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,I,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,Yes,No,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+25-29,Male,B.Sc,6 years and above,1-10,Yes,A,SA,A,A,A,SA,A,Yes,Automatic recording of customers information,Yes,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,No,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,SA,A,A,A,Yes,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,WAEC,1-5 years,1-10,No,A,I,I,I,I,A,I,Yes,Not using IoT,Yes,No,No,No,No,Yes,Yes,"50,000 to 100,000","Below 50,000",No,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,I,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,Yes,No,No,No,"50,000 to 100,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+20-24,Male,WAEC,1-5 years,1-10,Yes,A,A,A,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,Yes,Yes,Yes,Yes,No,"Below 50,000","50,000 to 100,000",Yes,Yes,No,No
+25-29,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,A,I,A,SA,SA,SA,SA,Yes,Not using IoT,Yes,No,No,No,Yes,No,No,"Above 500,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Female,WAEC,1-5 years,1-10,No,I,D,D,I,D,SD,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,A,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,31 and above,Yes,SA,SA,SA,SA,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Below 50,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,M.Sc,1-5 years,1-10,Yes,D,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,31 and above,No,A,A,A,A,SA,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,Yes,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,A,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,No,I,I,I,A,A,A,A,No,Not using IoT,No,Yes,No,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+20-24,Female,B.Sc,1-5 years,1-10,Yes,A,I,SD,I,A,A,D,No,Automatic recording of customers information,No,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,SD,SD,SA,A,A,A,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,No,No,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,Yes,A,SA,SA,SA,A,A,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,Yes,No,Yes,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,A,A,A,A,A,A,A,No,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Above 500,000","100,000 to 500,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,No,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Male,WAEC,1-5 years,1-10,No,D,I,I,I,I,I,I,No,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,No,No,No,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,WAEC,1-5 years,1-10,No,D,I,I,D,I,A,A,No,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,No,No,"Above 500,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,21-30,Yes,SA,SA,A,A,A,A,A,Yes,Automatic recording of customers information,No,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,A,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,No,No,No,"100,000 to 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,No,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,Yes,No,No,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,No,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,M.Sc,1-5 years,31 and above,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,No,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Above 500,000",No,Yes,Yes,Yes
+30 and above,Male,WAEC,6 years and above,31 and above,No,D,I,I,I,I,I,I,No,Not using IoT,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",No,No,No,No
+20-24,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,A,SA,A,SA,I,Yes,Automatic replies to customer’s enquiries,Yes,No,No,Yes,Yes,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,31 and above,Yes,A,A,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,31 and above,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,No,A,A,A,SA,A,A,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,No,No,No,Yes,"50,000 to 100,000","Below 50,000",No,No,Yes,No
+20-24,Male,WAEC,1-5 years,1-10,No,A,I,A,A,A,A,A,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Below 50,000","Below 50,000",No,No,No,No
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,A,SA,SA,SA,SA,A,A,Yes,Automatic recording of customers information,Yes,No,No,Yes,No,No,No,"100,000 to 500,000","50,000 to 100,000",Yes,Yes,No,No
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,A,SA,Yes,Automatic replies to customer’s enquiries,No,No,No,No,Yes,No,Yes,"100,000 to 500,000","50,000 to 100,000",No,Yes,No,Yes
+25-29,Female,M.Sc,6 years and above,1-10,Yes,SA,SA,SA,A,A,A,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,Primary School,6 years and above,1-10,No,I,A,I,A,A,I,A,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,M.Sc,6 years and above,11-20,No,A,A,A,A,A,A,A,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,A,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,A,A,SA,SA,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,SA,I,A,A,A,SA,SA,No,Not using IoT,Yes,Yes,No,Yes,No,Yes,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,31 and above,Yes,D,A,A,A,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,No,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+30 and above,Male,WAEC,6 years and above,31 and above,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,No,No,No
+25-29,Female,WAEC,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",No,No,No,No
+25-29,Male,WAEC,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Male,B.Sc,1-5 years,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,No,Yes,No,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,Yes
+25-29,Male,M.Sc,1-5 years,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,WAEC,6 years and above,1-10,No,SD,SD,I,D,D,D,D,No,Not using IoT,No,No,No,No,No,No,No,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+20-24,Male,WAEC,1-5 years,1-10,Yes,I,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,No,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,WAEC,1-5 years,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,Yes,No,Yes,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,11-20,Yes,I,I,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,SA,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Not using IoT,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,1-5 years,1-10,No,D,I,I,I,I,I,I,No,Not using IoT,No,Yes,Yes,Yes,Yes,Yes,No,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Female,B.Sc,6 years and above,11-20,Yes,SA,SA,A,A,A,SA,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,D,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+20-24,Female,WAEC,1-5 years,1-10,Yes,A,A,A,I,SA,SA,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",No,No,No,No
+25-29,Female,WAEC,1-5 years,1-10,Yes,I,A,A,A,I,SA,SA,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,M.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,21-30,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,Yes,No,No,No,Yes,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Above 500,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,6 years and above,1-10,Yes,SA,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Not using IoT,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,1-5 years,1-10,No,D,I,I,I,I,I,I,No,Not using IoT,No,Yes,Yes,Yes,Yes,Yes,No,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Female,M.Sc,6 years and above,11-20,Yes,SA,SA,A,A,A,SA,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,Yes,Yes,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,D,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,WAEC,6 years and above,1-10,No,I,I,I,I,I,I,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+20-24,Female,B.Sc,1-5 years,1-10,Yes,A,A,A,I,SA,SA,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+25-29,Female,WAEC,1-5 years,1-10,Yes,I,A,A,A,I,SA,SA,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+25-29,Male,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,Yes,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,A,A,A,A,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+20-24,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,No,No,No,Yes,No,Yes,No,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Male,PhD,6 years and above,11-20,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,SA,SA,SA,SA,SA,SA,SA,Yes,Not using IoT,No,No,No,Yes,No,Yes,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,SA,SA,A,A,A,A,A,Yes,Automatic replies to customer’s enquiries,Yes,Yes,Yes,Yes,Yes,Yes,No,"100,000 to 500,000","50,000 to 100,000",No,No,No,No
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,I,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,Yes,No,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+30 and above,Female,B.Sc,6 years and above,1-10,Yes,SA,SA,I,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,Yes,No,Yes,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,No
+25-29,Male,B.Sc,6 years and above,1-10,Yes,A,SA,A,A,A,SA,A,Yes,Automatic recording of customers information,Yes,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,No,Yes,Yes
+30 and above,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,SA,A,A,A,Yes,Automatic replies to customer’s enquiries,No,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,Yes,Yes,Yes
+25-29,Female,WAEC,1-5 years,1-10,No,A,I,I,I,I,A,I,Yes,Not using IoT,Yes,No,No,No,No,Yes,Yes,"50,000 to 100,000","Below 50,000",No,Yes,Yes,Yes
+25-29,Female,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,I,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,Yes,No,No,No,"50,000 to 100,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+20-24,Male,WAEC,1-5 years,1-10,Yes,A,A,A,SA,SA,SA,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,Yes,Yes,Yes,Yes,No,"Below 50,000","50,000 to 100,000",Yes,Yes,No,No
+25-29,Male,B.Sc,1-5 years,1-10,Yes,A,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Male,B.Sc,6 years and above,1-10,Yes,A,I,A,SA,SA,SA,SA,Yes,Not using IoT,Yes,No,No,No,Yes,No,No,"Above 500,000","50,000 to 100,000",Yes,Yes,Yes,Yes
+25-29,Female,WAEC,1-5 years,1-10,No,I,D,D,I,D,SD,I,No,Not using IoT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+30 and above,Male,B.Sc,6 years and above,1-10,Yes,A,A,A,A,A,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,No,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,M.Sc,6 years and above,31 and above,Yes,SA,SA,SA,A,A,A,SA,Yes,Automatic recording of customers information,Yes,Yes,No,No,No,No,No,"Above 500,000","100,000 to 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,B.Sc,6 years and above,31 and above,Yes,SA,SA,SA,SA,SA,SA,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",No,No,No,No,No,No,No,"Below 50,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Male,M.Sc,1-5 years,1-10,Yes,D,A,A,A,A,A,A,Yes,Automatic recording of customers information,Yes,Yes,Yes,Yes,Yes,Yes,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,1-5 years,31 and above,No,A,A,A,A,SA,A,A,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,Yes,Yes,Yes,Yes,No,No,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,M.Sc,6 years and above,1-10,Yes,A,SA,SA,SA,SA,SA,SA,Yes,Automatic replies to customer’s enquiries,Yes,No,No,No,No,No,No,"50,000 to 100,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,No,I,I,I,A,A,A,A,No,Not using IoT,No,Yes,No,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,No,No
+20-24,Female,B.Sc,1-5 years,1-10,Yes,A,I,SD,I,A,A,D,No,Automatic recording of customers information,No,Yes,Yes,Yes,Yes,Yes,Yes,"50,000 to 100,000","Below 50,000",No,No,Yes,Yes
+25-29,Male,B.Sc,1-5 years,1-10,Yes,SD,SD,SA,A,A,A,SA,Yes,Automatic replies to customer’s enquiries,Yes,Yes,No,Yes,No,No,Yes,"Above 500,000","Above 500,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,1-5 years,1-10,Yes,A,SA,SA,SA,A,A,SA,Yes,"In-built system to keep track of goods, production and shelf life of goods",Yes,No,No,No,Yes,No,Yes,"Below 50,000","Below 50,000",Yes,Yes,Yes,Yes
+30 and above,Female,B.Sc,6 years and above,1-10,No,A,A,A,A,A,A,A,No,Automatic replies to customer’s enquiries,No,Yes,Yes,No,Yes,No,No,"Above 500,000","100,000 to 500,000",No,Yes,No,Yes
