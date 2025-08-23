@@ -81,7 +81,3 @@ However, adoption gaps remain, largely due to **education, funding, and technica
 - **Educational initiatives** → build IoT awareness & skills  
 - **Government/NGO financial support** → reduce cost barriers  
 - ⚙**Targeted policies** → encourage SME digital transformation  
-
-> **In summary:** IoT adoption among SMEs in Osogbo is already **significant and impactful**, with strong evidence of **business growth, profitability, and efficiency gains** for adopters.
-
-## 📂 Repository Structure
