@@ -1,83 +1,91 @@
-# Impact of Internet of Things (IoT) on SMEs in Osogbo, Osun State
+# Impact of Internet of Things
 
-## Project Overview
-This research investigates the **awareness, adoption, and impact of Internet of Things (IoT)** technologies among **Small and Medium Enterprises (SMEs)** in **Osogbo, Osun State**.  
+A comprehensive analysis and research project examining the impact of Internet of Things (IoT) technology on Small and Medium Enterprises (SMEs).
 
-The study followed a structured three-phase approach:
-1. **Data Preparation**  
-2. **Descriptive Statistics**  
-3. **Objective-Based Analysis**  
+## Overview
 
----
+This project investigates how IoT technologies influence business operations, efficiency, and decision-making processes within small and medium-sized enterprises. Through data analysis, statistical modeling, and detailed reporting, this research provides insights into IoT adoption patterns and their tangible business impacts.
 
-## 🛠1. Data Preparation
-- Cleaned and standardized dataset for consistency.  
-- Missing values reviewed and handled appropriately.  
-- Questionnaire responses renamed for clarity.  
-- Final dataset: **214 valid SME responses**.  
+## Project Contents
 
----
+- **Analysis Notebook**: Jupyter notebook containing exploratory data analysis, statistical analysis, and visualizations
+- **Dataset**: Cleaned and processed SME survey data related to IoT adoption and impact metrics
+- **Research Report**: Comprehensive HTML report with findings and recommendations
+- **Questionnaire**: Original survey instrument used for data collection
+- **Presentation**: Project presentation materials
 
-## 2. Descriptive Statistics
+## Key Features
 
-**Demographic & Operational Profile**
-- Balanced gender participation.  
-- Most respondents were **25+ years** and **75% held at least a B.Sc**.  
-- **77% SMEs** had <10 employees, confirming small-scale operations.  
-- Over half had been operating for **6+ years**.  
+- Exploratory data analysis on IoT adoption in SMEs
+- Statistical analysis of business impact metrics
+- Data visualization and trend identification
+- Comprehensive research findings and conclusions
 
-**IoT Awareness & Adoption**
-- **78%** had heard of IoT; knowledge levels were high (avg. >4.1/5).  
-- **72% adoption rate** — common uses: inventory tracking, customer response automation, data recording.  
+## Dataset
 
-**Perceptions & Challenges**
-- **85%+** believed IoT improves efficiency and is cross-sector applicable.  
-- Barriers included:
-  - Lack of knowledge (**66%**)  
-  - Insufficient funds (**59%**)  
-  - Complexity & maintenance concerns  
+The analysis is based on cleaned IoT survey data from small and medium enterprises. The dataset includes:
 
-**Business Outcomes**
-- Among adopters, **68–71%** reported improved **growth, profitability, retention, and reduced losses**.  
+- IoT adoption metrics
+- Business performance indicators
+- Operational efficiency measures
+- Technology investment patterns
 
----
+**File**: `data/cleaned_iot_sme_data.csv`
 
-## 3. Objective-Based Findings
+## Getting Started
 
-### Objective 1: Awareness & Knowledge
-- Awareness is **widespread and informed**.  
-- **Education** significantly influenced awareness levels.  
+### Prerequisites
 
-### Objective 2: Adoption & Application
-- **72.4% adoption rate**; tracking and automation were leading applications.  
-- Adoption strongly linked to **organization size**, not business age.  
-- Nearly **89% of those aware** had adopted IoT.  
+- Python 3.x
+- Jupyter Notebook
+- Required Python packages (see requirements.txt)
 
-### Objective 3: Education vs Awareness & Adoption
-- Higher education (M.Sc, PhD) → significantly higher IoT awareness & adoption.  
+### Installation
 
-### Objective 4: Impact on Growth & Development
-- IoT use strongly associated with:
-  - Higher income levels  
-  - Business growth & customer retention  
-  - Reduced operational losses  
+1. Clone this repository
+2. Install required dependencies:
 
-### Objective 5: Profitability & Efficiency Outcomes
-- IoT adopters reported:  
-  - **Profit increase** (71%)  
-  - **Customer retention** (71%)  
-  - **Loss reduction** (68.2%)  
-- All efficiency outcomes were statistically significant.  
+```bash
+pip install -r requirements.txt
+```
 
----
+3. Open the Jupyter notebook:
 
-## Final Insight
+```bash
+jupyter notebook impact_of_internet_of_things.ipynb
+```
 
-The evidence is clear: **IoT is reshaping SMEs in Osogbo**, driving efficiency, profitability, and competitiveness.  
+## Usage
 
-However, adoption gaps remain, largely due to **education, funding, and technical support barriers**.  
+Navigate through the Jupyter notebook cells to:
 
-### Recommendations
-- **Educational initiatives** → build IoT awareness & skills  
-- **Government/NGO financial support** → reduce cost barriers  
-- ⚙**Targeted policies** → encourage SME digital transformation  
+1. Load and explore the IoT SME dataset
+2. Review statistical analyses and findings
+3. Examine visualizations and trend patterns
+4. Understand the research conclusions
+
+For detailed findings and recommendations, refer to the HTML report in the `code report/` directory.
+
+## Methodology
+
+This research employs quantitative analysis methods including:
+
+- Descriptive statistics
+- Correlation analysis
+- Comparative analysis of IoT adopters vs. non-adopters
+- Trend identification and forecasting
+
+## Key Findings
+
+The analysis reveals significant patterns in how SMEs adopt and benefit from IoT technologies. For comprehensive findings and interpretations, please review the detailed report.
+
+## Results and Conclusions
+
+The research demonstrates measurable impacts of IoT implementation on:
+
+- Operational efficiency
+- Cost optimization
+- Decision-making capabilities
+- Competitive advantage
+
+Detailed conclusions and recommendations are documented in the HTML report.
